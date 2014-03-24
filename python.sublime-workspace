@@ -1,0 +1,593 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"n"
+			],
+			[
+				"print",
+				"print_words"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"mul",
+				"Multiline"
+			],
+			[
+				"scr",
+				"script	<script>"
+			],
+			[
+				"script",
+				"script	HTML - Script"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"scrip",
+				"script	HTML - Script"
+			],
+			[
+				"sty",
+				"style	<style>"
+			],
+			[
+				"styl",
+				"style	HTML - Stylesheet link"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"style",
+				"style	<style>"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"project",
+				"Project: Refresh Folders"
+			],
+			[
+				"mimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side ba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package cont",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"https://sublime.wbond.net/testing/packages.json",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/subramanianl/Downloads/RB_R83063_V1/new/MHC_APPLICATION_ENGINES/MHC_WEBKIT_BROWSER_LAYER/qtbrowser/code/bridge/EvoDTVBank.cpp",
+		"/E/Personal/Sublime/tracking/cInterview.txt",
+		"/M/Subramanianl_MHC_WEBKIT_BROWSER_LAYER_Proj_int/MHC_APPLICATION_ENGINES/MHC_WEBKIT_BROWSER_LAYER/qtbrowser/code/wkenginit.c",
+		"/W/MHC_APPLICATION_ENGINES/MHC_WEBKIT_BROWSER_LAYER/qtbrowser/code/glue/wkglue_mpf.c",
+		"/W/MHC_APPLICATION_ENGINES/MHC_WEBKIT_BROWSER_LAYER/qtbrowser/code/memory/wkmemory.c",
+		"/W/MHC_APPLICATION_ENGINES/MHC_WEBKIT_BROWSER_LAYER/qtbrowser/code/glue/wkglue.c",
+		"/W/MHC_APPLICATION_ENGINES/MHC_WEBKIT_BROWSER_LAYER/qtbrowser/code/glue/wkglue_dv3.c",
+		"/X/COMMON_MIDDLEWARE/WEBKITQT48_SRC/build/import-and-baseline.sh",
+		"/X/COMMON_MIDDLEWARE/WEBKITQT48_SRC/build/build-and-release-libs.sh",
+		"/X/COMMON_MIDDLEWARE/WEBKITQT48_SRC/build/extract-sources.sh",
+		"/X/COMMON_MIDDLEWARE/WEBKITQT48_SRC/build/get-tags.sh",
+		"/X/COMMON_MIDDLEWARE/WEBKITQT48_SRC/build/makecomponent.sh",
+		"/X/COMMON_MIDDLEWARE/WEBKITQT48_SRC/tags",
+		"/E/Personal/Sublime/tracking/test.c",
+		"/E/Personal/Sublime/book/index_title.txt",
+		"/E/Personal/Sublime/book/credit",
+		"/E/Personal/Sublime/tracking/tracking.txt",
+		"/C/Users/subramanianl/Desktop/PlayerFix/svmplayr_new.c",
+		"/C/Users/subramanianl/Desktop/PlayerFix/svmplayr.c",
+		"/E/Personal/Sublime/tracking/Kannada - Class.txt",
+		"/E/Personal/Sublime/sublime_commands",
+		"/E/Personal/Sublime/personal.sublime-project",
+		"/C/TEMP/test.html",
+		"/E/Personal/sub_project.sublime-project",
+		"/E/prog/python/python.sublime-project",
+		"/E/prog/python/google-python-exercises/google-python-exercises/babynames/baby1992.html",
+		"/E/prog/python/google-python-exercises/google-python-exercises/babynames/baby2004.html",
+		"/E/prog/python/google-python-exercises/google-python-exercises/basic/solution/string1.py",
+		"/E/prog/python/google-python-exercises/google-python-exercises/basic/solution/list2.py",
+		"/E/prog/python/google-python-exercises/google-python-exercises/basic/solution/list1.py",
+		"/E/prog/python/google-python-exercises/google-python-exercises/logpuzzle/animal_code.google.com",
+		"/E/prog/python/google-python-exercises/google-python-exercises/logpuzzle/logpuzzle.py",
+		"/E/prog/python/google-python-exercises/google-python-exercises/logpuzzle/out.log",
+		"/E/prog/python/google-python-exercises/google-python-exercises/logpuzzle/nflog.txt",
+		"/E/prog/python/google-python-exercises/google-python-exercises/logpuzzle/nfparse.py",
+		"/E/prog/python/google-python-exercises/google-python-exercises/logpuzzle/out.txt",
+		"/C/Users/subramanianl/Documents/platform.mk",
+		"/E/ccviews/subramanianl_NetFront_Proj_2_view/MHC_APPLICATION_ENGINES/MHC_NF_BROWSER/netfrontadaptationlayer/plugin/code/nds/core/media/nfp_player.c",
+		"/C/Users/subramanianl/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/subramanianl/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/prog/python/google-python-exercises/google-python-exercises/babynames/baby1996.html",
+		"/E/prog/python/regex_basic.py",
+		"/E/prog/python/match_find.py",
+		"/E/prog/python/char_class.py",
+		"/C/Users/subramanianl/stream.txt",
+		"/E/prog/python/google-python-exercises/google-python-exercises/basic/wordcount.py",
+		"/E/prog/python/fileops.py",
+		"/E/prog/python/google-python-exercises/google-python-exercises/basic/string2.py",
+		"/E/prog/python/google-python-exercises/google-python-exercises/basic/string1.py",
+		"/E/ccviews/subramanianl_MHC_WEBKIT_BROWSER_LAYER_Proj_2_int/MHC_APPLICATION_ENGINES/MHC_WEBKIT_BROWSER_LAYER/jspa/javascript/amp/amp.js",
+		"/E/ccviews/subramanianl_MHC_WEBKIT_BROWSER_LAYER_Proj_2_int/MHC_APPLICATION_ENGINES/MHC_WEBKIT_BROWSER_LAYER/jspa/code/amp/EvoAMPInjectable.cpp",
+		"/E/ccviews/subramanianl_MHC_WEBKIT_BROWSER_LAYER_Proj_2_int/MHC_APPLICATION_ENGINES/MHC_WEBKIT_BROWSER_LAYER/jspa/code/EvoJspa.cpp",
+		"/E/prog/python/sort_key.py",
+		"/E/prog/python/tuple.py",
+		"/E/prog/python/sort.py",
+		"/E/prog/python/listOps.py",
+		"/E/prog/python/range.py",
+		"/E/prog/python/for_in.py",
+		"/C/Users/subramanianl/Desktop/bos_device - LinuxUser.c",
+		"/C/Users/subramanianl/Desktop/bos_device - LinuxKernel.c",
+		"/E/prog/python/simple.py",
+		"/E/prog/python/exclaim.py",
+		"/E/prog/python/runtime_check.py",
+		"/E/prog/python/string_man.py",
+		"/E/ccviews/subramanianl_MHC_WEBKIT_BROWSER_LAYER_Proj_2_int/MHC_APPLICATION_ENGINES/MHC_WEBKIT_BROWSER_LAYER/tools/Threshold/warnings_threshold.txt",
+		"/E/ccviews/subramanianl_NetFront_Proj_2_view/MHC_APPLICATION_ENGINES/MHC_NF_BROWSER/Tools/Threshold/warnings_threshold.txt",
+		"/E/ccviews/subramanianl_MHC_WEBKIT_BROWSER_LAYER_Proj_2_int/MHC_APPLICATION_ENGINES/MHC_WEBKIT_BROWSER_LAYER/qtbrowser/code/launcher/event/qkeyeventhandler.h",
+		"/E/ccviews/subramanianl_MHC_WEBKIT_BROWSER_LAYER_Proj_2_int/MHC_APPLICATION_ENGINES/MHC_WEBKIT_BROWSER_LAYER/qtbrowser/code/launcher/event/qkeyeventhandler.cpp",
+		"/E/ccviews/subramanianl_MHC_WEBKIT_BROWSER_LAYER_Proj_2_int/MHC_APPLICATION_ENGINES/MHC_WEBKIT_BROWSER_LAYER/qtbrowser/code/media/wkmedia.cpp",
+		"/E/ccviews/subramanianl_NetFront_Proj_2_view/MHC_APPLICATION_ENGINES/MHC_NF_BROWSER/include/nfengine.h",
+		"/E/ccviews/subramanianl_MHC_WEBKIT_BROWSER_LAYER_Proj_2_int/MHC_APPLICATION_ENGINES/MHC_WEBKIT_BROWSER_LAYER/qtbrowser/code/wkevent.c",
+		"/E/ccviews/subramanianl_MHC_WEBKIT_BROWSER_LAYER_Proj_2_int/MHC_APPLICATION_ENGINES/MHC_WEBKIT_BROWSER_LAYER/qtbrowser/code/launcher/qtbrowser.cpp",
+		"/E/Personal/GIT_TRAINING.txt",
+		"/C/Users/subramanianl/Desktop/Latin.c",
+		"/C/Users/subramanianl/Desktop/desktopBackup/Process/CIP/NF/stream/stream.bat",
+		"/C/Users/subramanianl/Desktop/desktopBackup/Process/CIP/NF/stream/stream.txt",
+		"/E/Programming/select.html",
+		"/C/Users/subramanianl/Documents/getaddrinfo_0_9_29.c",
+		"/E/git-repo/jspa/AMP/js/src/AMP.js",
+		"/E/git-repo/jspa/Service/js/src/Service.js",
+		"/E/git-repo/jspa/Service/js/src/STBService.js",
+		"/E/prog/html_js_css/onunload.html",
+		"/E/prog/html_js_css/stringCloud.html",
+		"/E/prog/html_js_css/div_span.html",
+		"/E/Moto/DVR Design/cset.pl",
+		"/E/git-repo/jspa/AMP/js/src/IOSamp.js",
+		"/E/git-repo/jspa/Application/js/src/AppManager.js",
+		"/E/git-repo/jspa/Misc/fusion/src/MiscInjectable.cpp",
+		"/E/git-repo/jspa/Application/fusion/src/ApplicationInjectable.cpp",
+		"/C/Users/SUBRAM~1/AppData/Local/Temp/Rar$DR06.874/Inter-APP_Sample/index.htm",
+		"/C/Users/SUBRAM~1/AppData/Local/Temp/Rar$DR09.973/Inter-APP_Sample/playback.xml",
+		"/C/Users/SUBRAM~1/AppData/Local/Temp/Rar$DR01.223/Inter-APP_Sample/appMgr_.js",
+		"/E/git-repo/jspa/AMP/js/src/STBamp.js",
+		"/E/git-repo/jspa/Service/fusion/src/ServiceInjectable.cpp",
+		"/E/git-repo/jspa/Application/fusion/src/qt48_appmgt_payload.cpp",
+		"/E/git-repo/jspa/AMP/fusion/src/VideoTracks.cpp",
+		"/E/git-repo/jspa/System/fusion/src/SystemInjectable.cpp",
+		"/E/git-repo/jspa/fusion/src/AbstractInjectable.cpp",
+		"/C/Users/subramanianl/Downloads/WebDriver-win32-Qt4.8.4-cisco-cmt-0.2.1/WebDriver-win32-Qt4.8.4-cisco-cmt-0.2.1/webdriver.log",
+		"/C/Users/subramanianl/Downloads/WebDriver-win32-Qt4.8.4-cisco-cmt-0.2.1/WebDriver-win32-Qt4.8.4-cisco-cmt-0.2.1/output.raw",
+		"/C/Users/subramanianl/Downloads/WebDriver-win32-Qt4.8.4-cisco-cmt-0.2.1/WebDriver-win32-Qt4.8.4-cisco-cmt-0.2.1/output.jpg",
+		"/C/Users/subramanianl/Downloads/WebDriver-win32-Qt4.8.4-cisco-cmt-0.2.1/WebDriver-win32-Qt4.8.4-cisco-cmt-0.2.1/rawoutput.raw",
+		"/C/Users/subramanianl/Downloads/selenium-2.33.0-cisco-cmt-0.2.0_patches/go",
+		"/C/Users/subramanianl/Downloads/selenium-2.33.0-cisco-cmt-0.2.0_patches/go.bat",
+		"/C/Users/subramanianl/Downloads/selenium-2.33.0-cisco-cmt-0.2.0_patches/build.xml",
+		"/C/Users/subramanianl/Desktop/Main.java",
+		"/C/Users/subramanianl/Downloads/basic/basic/manifest.json",
+		"/C/Users/subramanianl/Downloads/basic/basic/background.js",
+		"/C/Users/subramanianl/Downloads/basic/basic/popup.html",
+		"/C/Users/subramanianl/Downloads/basic/basic/popup.js",
+		"/E/prog/chrome_ext/browseraction/popup.js",
+		"/E/prog/chrome_ext/browseraction/popup.html",
+		"/E/prog/chrome_ext/manifest.json",
+		"/E/prog/chrome_ext/content.js",
+		"/E/prog/chrome_ext/background.js",
+		"/E/prog/chrome_ext/popup.html",
+		"/E/prog/chrome_ext/popup.js",
+		"/E/prog/chrome_ext/devtools.html",
+		"/E/prog/chrome_ext/devtools.js",
+		"/E/git-repo/jspa/System/js/src/STBSystem.js",
+		"/E/git-repo/jspa/System/fusion/inc/Qt48_System_Intent.h",
+		"/E/git-repo/jspa/fusion/inc/AbstractInjectable.h",
+		"/E/git-repo/jspa/AMP/fusion/inc/PlayerData.h",
+		"/E/git-repo/jspa/AMP/fusion/inc/VideoTracks.h",
+		"/E/git-repo/jspa/System/fusion/src/qt48_system_payload.cpp",
+		"/E/git-repo/jspa/AMP/fusion/src/VideoTracks_moc.cpp",
+		"/E/ccviews/subramanianl_MHC_WEBKIT_BROWSER_LAYER_Proj_2_int/MHC_APPLICATION_ENGINES/MHC_WEBKIT_BROWSER_LAYER/qtbrowser/code/glue/wkglue.c",
+		"/E/ccviews/subramanianl_MHC_WEBKIT_BROWSER_LAYER_Proj_2_int/MHC_APPLICATION_ENGINES/MHC_WEBKIT_BROWSER_LAYER/qtbrowser/code/glue/wkglue_dv3.c"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"start",
+			"WKGLUE_CreatePixmapMemory",
+			"QTGLUE_SurfaceCreateFromMemory",
+			"WKGLUE_CreatePixmapMemory",
+			"WKMEMORY_AllocatePixmapMemory",
+			"\"",
+			"“",
+			"”",
+			"bus",
+			"1694000",
+			"130260404",
+			"1556575",
+			"120260510",
+			"1556565",
+			"121060624",
+			"121060624\n",
+			"DENC",
+			"D",
+			"str",
+			"NFBE",
+			"ERR",
+			"FTL",
+			"DONE",
+			"DOC DONE",
+			"URL",
+			"PreProcess",
+			"STANDBY",
+			"standby",
+			"NFBE",
+			"sesssion",
+			"Player",
+			"player",
+			"NFBE",
+			"NFB",
+			"puzzle",
+			"animal",
+			".jpg",
+			"cisco",
+			"NDS",
+			"-g",
+			"font",
+			"NFPlayer_SetSource",
+			"MHC_WEB",
+			"Julian",
+			"Scott",
+			"Find",
+			"  ",
+			"find",
+			"Find",
+			"find",
+			"	",
+			"foudn",
+			"IIM",
+			"EPGP",
+			"  ",
+			"EPGP",
+			"Netfront",
+			"ITV",
+			"WEBKIT",
+			"dict",
+			"a_front",
+			"a_len",
+			"audioTrack",
+			"AudioTrackList",
+			"playbackRate",
+			"open",
+			"loadDVBURL",
+			"bindToMain",
+			"receiveKeyEven",
+			"dvb",
+			"EBL_initialize",
+			"NF_ENGINE_API_Front_initialize",
+			"WKGLUE_GraphicsClientTerminate",
+			"WKEVENT_Finalize",
+			"wkTearDownActiveMediaPlayer",
+			"BrowserApplication",
+			"QTBrowser_Stop",
+			"WebKitBrowser_AppMgr_Hide",
+			"QT5",
+			"WebPage",
+			"webview",
+			"WebPage\nGraphicsWebView",
+			"GraphicsWebView",
+			"webpage",
+			"platformFocusRingColor",
+			"diff",
+			"addrconfig",
+			"help",
+			"first",
+			"input",
+			"context",
+			"sort",
+			"bySortedValue",
+			"Src",
+			"setS",
+			"vcal_AppManager",
+			"vcal_AppManager_install",
+			"appMgtImp",
+			"QT48PROXY_EventThread_PostAction",
+			"bindToMain",
+			"bind",
+			"dataBin",
+			"canPlayType",
+			"crossOrigin",
+			"bind",
+			"data",
+			"screenshot",
+			"screenshotAs",
+			"getScreenShot",
+			"output",
+			"logEntr",
+			"webkit",
+			"browser",
+			"Alex",
+			"dumpBook",
+			"scrip",
+			"icons",
+			"devtools",
+			"content",
+			"inject(",
+			"windo",
+			"inject(",
+			"inject",
+			"m_javaScriptFileContent",
+			"javascriptName",
+			"inject",
+			"_cisco_System",
+			"stb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "python.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"amp.js",
+				"jspa\\javascript\\amp\\amp.js"
+			],
+			[
+				"qkeyeve",
+				"qtbrowser\\code\\launcher\\event\\qkeyeventhandler.cpp"
+			],
+			[
+				"qevent",
+				"qtbrowser\\code\\launcher\\event\\qkeyeventhandler.h"
+			],
+			[
+				"webpage.cp",
+				"qtbrowser\\code\\launcher\\webpage.cpp"
+			],
+			[
+				"webpage.h",
+				"qtbrowser\\code\\launcher\\webpage.h"
+			],
+			[
+				"webview",
+				"qtbrowser\\code\\launcher\\webview.h"
+			],
+			[
+				"webview.cpp",
+				"qtbrowser\\code\\launcher\\webview.cpp"
+			],
+			[
+				"absr",
+				"fusion\\src\\AbstractInjectable.cpp"
+			],
+			[
+				"asb",
+				"fusion\\src\\AbstractInjectable.cpp"
+			],
+			[
+				"abstr",
+				"fusion\\inc\\AbstractInjectable.h"
+			],
+			[
+				"ex11",
+				"ex11.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"pyt",
+				"E:\\prog\\python\\python.sublime-workspace"
+			],
+			[
+				"pyth",
+				"E:\\prog\\python\\python.sublime-workspace"
+			],
+			[
+				"py",
+				"E:\\prog\\python\\python.sublime-workspace"
+			],
+			[
+				"",
+				"E:\\chromium\\chromium_proj.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
