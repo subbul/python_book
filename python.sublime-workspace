@@ -119,7 +119,15 @@
 			"file": "mymath.py",
 			"settings":
 			{
-				"buffer_size": 151,
+				"buffer_size": 679,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		}
@@ -127,9 +135,41 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 242.0,
 		"selected_items":
 		[
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git sh",
+				"Git: Show Current File"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git set",
+				"Github: Plugin Settings"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Log All"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
 			[
 				"comment",
 				"Toggle Comment"
@@ -191,7 +231,7 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 576.0
+		"width": 400.0
 	},
 	"console":
 	{
@@ -213,13 +253,15 @@
 	},
 	"file_history":
 	[
+		"/C/Users/subramanianl/AppData/Roaming/Sublime Text 3/Packages/User/Github Tools.sublime-settings",
+		"/C/Users/subramanianl/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/Personal/cisco_links.html",
 		"/C/Users/subramanianl/Downloads/02196035.stinit",
 		"/C/blizzard.xml",
 		"/E/Programming/python/quickPythonBook/test.py",
 		"/E/Programming/python/quickPythonBook/functions.py",
 		"/E/Programming/python/quickPythonBook/mymath.py",
 		"/E/Programming/python/quickPythonBook/modules.py",
-		"/C/Users/subramanianl/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/subramanianl/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/E/Programming/python/quickPythonBook/python.sublime-project",
 		"/E/Programming/python/word_count.txt",
@@ -338,9 +380,7 @@
 		"/C/Users/subramanianl/Downloads/selenium-2.33.0-cisco-cmt-0.2.0_patches/go",
 		"/C/Users/subramanianl/Downloads/selenium-2.33.0-cisco-cmt-0.2.0_patches/go.bat",
 		"/C/Users/subramanianl/Downloads/selenium-2.33.0-cisco-cmt-0.2.0_patches/build.xml",
-		"/C/Users/subramanianl/Desktop/Main.java",
-		"/C/Users/subramanianl/Downloads/basic/basic/manifest.json",
-		"/C/Users/subramanianl/Downloads/basic/basic/background.js"
+		"/C/Users/subramanianl/Desktop/Main.java"
 	],
 	"find":
 	{
@@ -504,16 +544,43 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
 					"file": "mymath.py",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 151,
+						"buffer_size": 679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								679,
+								679
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -526,7 +593,8 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage"
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -572,6 +640,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 142.0
 	},
 	"project": "python.sublime-project",
 	"replace":
